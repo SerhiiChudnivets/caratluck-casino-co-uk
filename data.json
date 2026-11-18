@@ -308,7 +308,7 @@
   "secondary_background": "#73030c",
   "button_background": "#e5b14e",
   "button_text_color": "#0f1504",
-  "text_color": "#e4e4f1",
+  "text_color": "#ffffff",
   "color_highlight_text": "#ffffff",
   "color_main_btn_text": "#0f1504",
   "cta_background": "#e5b14e",
@@ -493,8 +493,8 @@
       "question": "How can I take a temporary break from playing?"
     }
   ],
-  "_generated_at": "2026-11-18T13:47:28.864Z",
+  "_generated_at": "2026-11-18T14:02:22.618Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-18T13:47:29.547Z",
-  "_deploy_trigger": "fc4iw8"
+  "_last_deploy": "2026-11-18T14:02:23.331Z",
+  "_deploy_trigger": "xyps4d"
 }
