@@ -335,12 +335,6 @@
       "openInNewTab": false
     },
     {
-      "link": "/play/",
-      "label": "Review",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
       "link": "/bonus/",
       "label": "Bonus",
       "submenu": [],
@@ -493,8 +487,8 @@
       "question": "How can I take a temporary break from playing?"
     }
   ],
-  "_generated_at": "2026-11-18T14:02:22.618Z",
+  "_generated_at": "2026-11-18T14:05:37.528Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-18T14:02:23.331Z",
-  "_deploy_trigger": "xyps4d"
+  "_last_deploy": "2026-11-18T14:05:38.191Z",
+  "_deploy_trigger": "tzla7eo"
 }
