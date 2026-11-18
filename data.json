@@ -1,7 +1,7 @@
 {
   "name": "caratluck-casino.co.uk",
   "site_name": "CaratLuck Casino | Online Slots, Live Casino & VIP Club",
-  "html_head": "<meta name=\"google-site-verification\" content=\"QUPv9hl57XKhmxWGzPP_Uu0SqXpaJy2WUvKu5D1S0QM\" />\n<link rel=\"canonical\" href=\"https://caratluck-casino.co.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"CaratLuck Casino | Online Slots, Live Casino & VIP Club\">\n<meta property=\"og:description\" content=\"Join CaratLuck Casino and explore 12,400+ games, a 400% welcome bonus with 400 free spins, VIP rewards, live casino and crypto payments. 18+.\">\n<meta property=\"og:url\" content=\"ttps://caratluck-casino.co.uk/\">\n<meta property=\"og:site_name\" content= \"CaratLuck Casino\">\n",
+  "html_head": "<meta name=\"google-site-verification\" content=\"QUPv9hl57XKhmxWGzPP_Uu0SqXpaJy2WUvKu5D1S0QM\" />\n<link rel=\"canonical\" href=\"https://caratluck-casino.co.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"CaratLuck Casino | Online Slots, Live Casino & VIP Club\">\n<meta property=\"og:description\" content=\"Join CaratLuck Casino and explore 12,400+ games, a 400% welcome bonus with 400 free spins, VIP rewards, live casino and crypto payments. 18+.\">\n<meta property=\"og:url\" content=\"https://caratluck-casino.co.uk/\">\n<meta property=\"og:site_name\" content= \"CaratLuck Casino\">\n",
   "url": "caratluck-casino.co.uk",
   "template": "tupchiy",
   "language_code": "en-GB",
@@ -487,8 +487,8 @@
       "question": "How can I take a temporary break from playing?"
     }
   ],
-  "_generated_at": "2026-11-18T14:06:04.861Z",
+  "_generated_at": "2026-11-18T14:55:28.234Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-18T14:06:05.584Z",
-  "_deploy_trigger": "v2a1qj"
+  "_last_deploy": "2026-11-18T14:55:28.881Z",
+  "_deploy_trigger": "85kayk"
 }
